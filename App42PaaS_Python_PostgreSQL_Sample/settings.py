@@ -65,7 +65,7 @@ DATABASES = {
         'USER': 'kxlzhuyseg',                      # Not used with sqlite3.
         'PASSWORD': 'm4mNIRST8R3yy$gn',                  # Not used with sqlite3.
         'HOST': '20.119.8.51',                      # Set to empty string for localhost. Not used with sqlite3.
-        'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
+        'PORT': '53837',                      # Set to empty string for default. Not used with sqlite3.
 		'OPTIONS': {
             'sslmode': 'allow',
         },
